@@ -12,7 +12,8 @@ Pixel Plunger is a rendering automation tool designed to streamline and enhance 
 - **Crash and Completion Notifications**: Stay informed with instant notifications for rendering status.
 - **Auto Shutdown After Rendering**: Automatically shuts down your PC when rendering is complete, conserving energy.
 - **Pause Between Renders for Cooling**: Prevent overheating by incorporating cooling pauses between render jobs.
-
+- **Remote Notification**: Get notified on your phone about render progress & issues.
+  
 ## 🛠️ Project Setup
 
 ### Requirements
