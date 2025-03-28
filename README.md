@@ -1,6 +1,6 @@
 # Pixel Plunger⚡(CLI Version)
 
-Pixel Plunger is a rendering automation tool designed to streamline and enhance your rendering workflows through a command-line interface. With Pixel Plunger CLI, users can manage rendering processes efficiently, minimize manual effort, and save valuable time directly from the terminal.
+Pixel Plunger is a rendering automation tool designed to simplify your Blender workflow. It schedules, manages, and completes renders automatically, running in the background without the need for manual intervention. Built for efficiency and reliability, it ensures a smooth rendering process while minimizing effort and downtime.
 
 ## 🚀 Features
 
